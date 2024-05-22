@@ -9,7 +9,7 @@ This is a simple web application that allows users to chat with an AI model powe
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sujan58/python-mini-project/new/main/API_kEYS%20Chatbox
+    git clone https://github.com/sujan58/python-mini-project.git
     ```
 
 2. Install the required Python packages:
